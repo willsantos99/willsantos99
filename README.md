@@ -8,7 +8,7 @@
 - 👀 estou no curso de ciência da computação e estou focado em aprender mais e mais sobre o front-end
 - 👨🏽‍💻 estarei registrando meu aprendizado aqui. 
 - ⚡ comecei a estudar front-end a 4 meses pela (https://github.com/Rocketseat) 
-- 🔥 focado no aprendizado de **JavaScript, HTML, CSS, ReactJS**
+- 🔥 focado no aprendizado de **JavaScript, HTML, CSS, Veu.JS**
 - 💎 meu objetivo é ser um bom desenvolvedor front-end
 
 <br><br>
