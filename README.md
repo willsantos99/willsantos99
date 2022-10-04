@@ -7,9 +7,9 @@
 - ✌🏽 este perfil é mais um passo na minha jornada como dev junior front-end 
 - 👀 estou no curso de ciência da computação e estou focado em aprender mais e mais sobre o front-end
 - 👨🏽‍💻 estarei registrando meu aprendizado aqui. 
-- ⚡ comecei a estudar front-end a 4 meses pela (https://github.com/Rocketseat) 
-- 🔥 focado no aprendizado de **JavaScript, HTML, CSS, Veu.JS**
-- 💎 meu objetivo é ser um bom desenvolvedor front-end
+- ⚡ comecei a estudar front-end pela Rocketseat.Apó completar a maretona sigo meus estudos atualmente pela Onebitcode
+- 🔥 focado no aprendizado de **JavaScript, TypeScript, HTML, CSS, Node.JS e ReactJS**
+- 💎 meu obejetivo atual é me tornar um bom dev e me desenvolver cada dia mais na área de front
 
 <br><br>
 
