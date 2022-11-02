@@ -25,10 +25,11 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=willsantos99&show_icons=true&theme=tokyonight" alt="willsantos99's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willsantos99&layout=compact&theme=tokyonight" alt="willsantos99's most languages"/>
-</p>
+<div align="center">
+  <a href="https://github.com/willsantos99">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willsantos99&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willsantos99&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 
 
