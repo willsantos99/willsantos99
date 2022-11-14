@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willsantos99&color=brightgreen" alt="Profile views" /> </p>
 
 - ✌🏽 este perfil é mais um passo na minha jornada como dev junior front-end 
-- 👀 estou no curso de ciência da computação e estou focado em aprender mais e mais sobre o front-end
+- 👀 Curso Ciência da Computação na UNIVERCIDADE TIRADENTES SE e estou focado em aprender mais e mais sobre o front-end
 - 👨🏽‍💻 estarei registrando meu aprendizado aqui. 
 - ⚡ comecei a estudar front-end pela Rocketseat.Apó completar a maretona sigo meus estudos atualmente pela Onebitcode
 - 🔥 focado no aprendizado de **JavaScript, TypeScript, HTML, CSS, Node.JS, ReactJS, PostgreSql e MongoDB**
