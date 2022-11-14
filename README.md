@@ -8,7 +8,7 @@
 - 👀 estou no curso de ciência da computação e estou focado em aprender mais e mais sobre o front-end
 - 👨🏽‍💻 estarei registrando meu aprendizado aqui. 
 - ⚡ comecei a estudar front-end pela Rocketseat.Apó completar a maretona sigo meus estudos atualmente pela Onebitcode
-- 🔥 focado no aprendizado de **JavaScript, TypeScript, HTML, CSS, Node.JS e ReactJS**
+- 🔥 focado no aprendizado de **JavaScript, TypeScript, HTML, CSS, Node.JS, ReactJS, PostgreSql e MongoDB **
 - 💎 meu obejetivo atual é me tornar um bom dev e me desenvolver cada dia mais na área de front
 
 <br><br>
